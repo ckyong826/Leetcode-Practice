@@ -1,2 +1,2 @@
-# Python
+# Python Leetcode
  Python learning 
