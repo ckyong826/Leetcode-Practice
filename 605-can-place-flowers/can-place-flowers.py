@@ -6,8 +6,6 @@ class Solution:
                 if flowerbed[i+1]==0:
                     flowerbed[i]=1
                     c+=1
-                else:
-                    pass
             elif i==(len(flowerbed)-1):
                 if flowerbed[i]+flowerbed[i-1]==0 :
                     flowerbed[i]=1
