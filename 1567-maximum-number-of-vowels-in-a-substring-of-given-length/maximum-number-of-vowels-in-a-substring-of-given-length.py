@@ -1,7 +1,6 @@
 class Solution:
     def maxVowels(self, s: str, k: int) -> int:
-        temp=[]
-        temp.extend(s[:k])
+        temp=s[:k]
         count=0
         for w in temp:
             if w in "aeiou":
