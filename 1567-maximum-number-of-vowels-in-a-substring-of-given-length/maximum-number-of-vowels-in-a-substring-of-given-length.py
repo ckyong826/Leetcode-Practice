@@ -8,8 +8,7 @@ class Solution:
                 count+=1
         maxCount=count
         for i in range(len(s)-k):
-            temp.append(s[i+k])
-            a=temp.pop(0)
+            a=s[i]
             if a in "aeiou":
                 count-=1
             if s[i+k] in "aeiou":
