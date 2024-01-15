@@ -1,6 +1,6 @@
 class Solution:
     def decodeString(self, s: str) -> str:
-        num,temp,ans,result="","","",""
+        num,temp,ans="","",""
         stack=[]
         for stg in s:
             if stg.isdigit():
