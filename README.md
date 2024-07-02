@@ -16,4 +16,12 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ckyong826/Python/tree/master/0036-valid-sudoku) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ckyong826/Python/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ckyong826/Python/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
