@@ -21,6 +21,7 @@
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/ckyong826/Python/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/ckyong826/Python/tree/master/0155-min-stack) |
 ## Design
 |  |
@@ -42,4 +43,16 @@
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ckyong826/Python/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/ckyong826/Python/tree/master/0143-reorder-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/ckyong826/Python/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/ckyong826/Python/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
