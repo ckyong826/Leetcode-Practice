@@ -9,6 +9,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/ckyong826/Python/tree/master/0036-valid-sudoku) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ckyong826/Python/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1293-three-consecutive-odds](https://github.com/ckyong826/Python/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ckyong826/Python/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Hash Table
 |  |
