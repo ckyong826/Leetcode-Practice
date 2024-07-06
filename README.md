@@ -69,9 +69,14 @@
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ckyong826/Python/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2645-pass-the-pillow](https://github.com/ckyong826/Python/tree/master/2645-pass-the-pillow) |
 ## Binary Search
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ckyong826/Python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/ckyong826/Python/tree/master/0792-binary-search) |
+## Math
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/ckyong826/Python/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
