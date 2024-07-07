@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ckyong826/Python/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/ckyong826/Python/tree/master/0022-generate-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -79,4 +80,12 @@
 |  |
 | ------- |
 | [2645-pass-the-pillow](https://github.com/ckyong826/Python/tree/master/2645-pass-the-pillow) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ckyong826/Python/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ckyong826/Python/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
