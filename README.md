@@ -71,6 +71,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/ckyong826/Python/tree/master/1642-water-bottles) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ckyong826/Python/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/ckyong826/Python/tree/master/2645-pass-the-pillow) |
 ## Binary Search
@@ -81,6 +82,7 @@
 ## Math
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/ckyong826/Python/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/ckyong826/Python/tree/master/2645-pass-the-pillow) |
 ## Dynamic Programming
 |  |
