@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/ckyong826/Python/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/ckyong826/Python/tree/master/0036-valid-sudoku) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ckyong826/Python/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0739-daily-temperatures](https://github.com/ckyong826/Python/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/ckyong826/Python/tree/master/0792-binary-search) |
 | [1293-three-consecutive-odds](https://github.com/ckyong826/Python/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ckyong826/Python/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -28,6 +29,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/ckyong826/Python/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/ckyong826/Python/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/ckyong826/Python/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
@@ -88,4 +90,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ckyong826/Python/tree/master/0022-generate-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/ckyong826/Python/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
