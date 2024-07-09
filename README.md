@@ -19,6 +19,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ckyong826/Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/ckyong826/Python/tree/master/0036-valid-sudoku) |
+| [0138-copy-list-with-random-pointer](https://github.com/ckyong826/Python/tree/master/0138-copy-list-with-random-pointer) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ckyong826/Python/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Matrix
 |  |
@@ -56,6 +57,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/ckyong826/Python/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/ckyong826/Python/tree/master/0143-reorder-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ckyong826/Python/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Two Pointers
