@@ -21,6 +21,7 @@
 | [0036-valid-sudoku](https://github.com/ckyong826/Python/tree/master/0036-valid-sudoku) |
 | [0138-copy-list-with-random-pointer](https://github.com/ckyong826/Python/tree/master/0138-copy-list-with-random-pointer) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ckyong826/Python/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/ckyong826/Python/tree/master/0424-longest-repeating-character-replacement) |
 ## Matrix
 |  |
 | ------- |
@@ -40,10 +41,12 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ckyong826/Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/ckyong826/Python/tree/master/0022-generate-parentheses) |
+| [0424-longest-repeating-character-replacement](https://github.com/ckyong826/Python/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ckyong826/Python/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/ckyong826/Python/tree/master/0424-longest-repeating-character-replacement) |
 ## Greedy
 |  |
 | ------- |
