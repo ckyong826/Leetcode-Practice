@@ -1,23 +1,13 @@
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
-        char=Counter(s)
-        aMAX=0
-        for x in char:
-            l,r=0,0
-            t=k
-            MAX=0
-            while r < len(s):
-                if s[r]!=x and t>0:
-                    t-=1
-                    r+=1
-                elif s[r]!=x and s[l]==x:
-                    l+=1
-                elif s[r]!=x and s[l]!=x:
-                    l+=1
-                    t+=1
-                else:
-                    r+=1
-                MAX=max(MAX,r-l)
-            aMAX=max(aMAX,MAX)
-        return aMAX
+        maxlen, largestCount = 0, 0
+        arr = collections.Counter()
+        for idx in range(len(s)):
+            arr[s[idx]] += 1
+            largestCount = max(largestCount, arr[s[idx]])
+            if maxlen - largestCount >= k:
+                arr[s[idx - maxlen]] -= 1
+            else:
+                maxlen += 1
+        return maxlen
                 
