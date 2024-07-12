@@ -10,9 +10,8 @@ class Solution:
         if not root:
             return root
         if root.val > p.val and root.val > q.val:
-            ans = self.lowestCommonAncestor(root.left,p,q)
+            return self.lowestCommonAncestor(root.left,p,q)
         elif root.val < p.val and root.val < q.val:
-            ans = self.lowestCommonAncestor(root.right,p,q)
+            return self.lowestCommonAncestor(root.right,p,q)
         else:
-            ans = root
-        return ans
+            return root
