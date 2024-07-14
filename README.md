@@ -9,6 +9,7 @@
 | ------- |
 | [0015-3sum](https://github.com/ckyong826/Python/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/ckyong826/Python/tree/master/0036-valid-sudoku) |
+| [0287-find-the-duplicate-number](https://github.com/ckyong826/Python/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ckyong826/Python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0739-daily-temperatures](https://github.com/ckyong826/Python/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/ckyong826/Python/tree/master/0792-binary-search) |
@@ -73,6 +74,7 @@
 | [0015-3sum](https://github.com/ckyong826/Python/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/ckyong826/Python/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/ckyong826/Python/tree/master/0143-reorder-list) |
+| [0287-find-the-duplicate-number](https://github.com/ckyong826/Python/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ckyong826/Python/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Recursion
 |  |
@@ -88,6 +90,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/ckyong826/Python/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ckyong826/Python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/ckyong826/Python/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ckyong826/Python/tree/master/0907-koko-eating-bananas) |
@@ -157,4 +160,8 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ckyong826/Python/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ckyong826/Python/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
