@@ -9,6 +9,7 @@
 | ------- |
 | [0015-3sum](https://github.com/ckyong826/Python/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/ckyong826/Python/tree/master/0036-valid-sudoku) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ckyong826/Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/ckyong826/Python/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ckyong826/Python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0739-daily-temperatures](https://github.com/ckyong826/Python/tree/master/0739-daily-temperatures) |
@@ -90,6 +91,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ckyong826/Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/ckyong826/Python/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ckyong826/Python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/ckyong826/Python/tree/master/0792-binary-search) |
