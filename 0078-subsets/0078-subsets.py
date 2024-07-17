@@ -4,8 +4,6 @@ class Solution:
         def helper(temp,start):
             res.append(temp[:])
             for i in range(start,len(nums)):
-                temp.append(nums[i])
-                helper(temp,i+1)
-                temp.pop()
+                helper(temp+[nums[i]],i+1)
         helper([],0)
         return res
