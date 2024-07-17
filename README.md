@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/ckyong826/Python/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ckyong826/Python/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/ckyong826/Python/tree/master/0036-valid-sudoku) |
+| [0078-subsets](https://github.com/ckyong826/Python/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ckyong826/Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ckyong826/Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/ckyong826/Python/tree/master/0287-find-the-duplicate-number) |
@@ -118,6 +119,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ckyong826/Python/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/ckyong826/Python/tree/master/0078-subsets) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -179,6 +181,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ckyong826/Python/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/ckyong826/Python/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
