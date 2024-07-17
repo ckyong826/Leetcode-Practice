@@ -29,6 +29,7 @@
 | [0141-linked-list-cycle](https://github.com/ckyong826/Python/tree/master/0141-linked-list-cycle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ckyong826/Python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/ckyong826/Python/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/ckyong826/Python/tree/master/0567-permutation-in-string) |
 ## Matrix
 |  |
 | ------- |
@@ -49,11 +50,13 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ckyong826/Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/ckyong826/Python/tree/master/0022-generate-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/ckyong826/Python/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/ckyong826/Python/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ckyong826/Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/ckyong826/Python/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/ckyong826/Python/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
@@ -80,6 +83,7 @@
 | [0143-reorder-list](https://github.com/ckyong826/Python/tree/master/0143-reorder-list) |
 | [0287-find-the-duplicate-number](https://github.com/ckyong826/Python/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ckyong826/Python/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/ckyong826/Python/tree/master/0567-permutation-in-string) |
 ## Recursion
 |  |
 | ------- |
