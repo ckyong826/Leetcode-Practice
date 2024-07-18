@@ -31,6 +31,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/ckyong826/Python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/ckyong826/Python/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ckyong826/Python/tree/master/0567-permutation-in-string) |
+| [1023-time-based-key-value-store](https://github.com/ckyong826/Python/tree/master/1023-time-based-key-value-store) |
 ## Matrix
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ckyong826/Python/tree/master/0155-min-stack) |
+| [1023-time-based-key-value-store](https://github.com/ckyong826/Python/tree/master/1023-time-based-key-value-store) |
 ## String
 |  |
 | ------- |
@@ -52,6 +54,7 @@
 | [0022-generate-parentheses](https://github.com/ckyong826/Python/tree/master/0022-generate-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/ckyong826/Python/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ckyong826/Python/tree/master/0567-permutation-in-string) |
+| [1023-time-based-key-value-store](https://github.com/ckyong826/Python/tree/master/1023-time-based-key-value-store) |
 ## Sliding Window
 |  |
 | ------- |
@@ -105,6 +108,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/ckyong826/Python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/ckyong826/Python/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ckyong826/Python/tree/master/0907-koko-eating-bananas) |
+| [1023-time-based-key-value-store](https://github.com/ckyong826/Python/tree/master/1023-time-based-key-value-store) |
 ## Math
 |  |
 | ------- |
