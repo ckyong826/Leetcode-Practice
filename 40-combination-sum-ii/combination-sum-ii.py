@@ -12,6 +12,8 @@ class Solution:
                 can=candidates[i]
                 if i > start and can == candidates [i-1]:
                     continue
+                if can > target:
+                    break
                 helper(temp+[can],i+1,SUM+can)
             return [list(sub) for sub in res]
         return helper([],0,0)
