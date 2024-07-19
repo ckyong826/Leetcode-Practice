@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/ckyong826/Python/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ckyong826/Python/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/ckyong826/Python/tree/master/0036-valid-sudoku) |
+| [0046-permutations](https://github.com/ckyong826/Python/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ckyong826/Python/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ckyong826/Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ckyong826/Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -123,6 +124,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ckyong826/Python/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/ckyong826/Python/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ckyong826/Python/tree/master/0078-subsets) |
 ## Monotonic Stack
 |  |
