@@ -16,8 +16,8 @@ class Solution:
                 res.append(sub[:])
                 return
             for i in range(start,len(digits)):
-                d=digits[i]
-                for j in range(len(num[d])):
-                    backtrack(i+1,sub+num[d][j])
+                d=num[digits[i]]
+                for ltr in d:
+                    backtrack(i+1,sub+ltr)
         backtrack(0,"")
         return res
