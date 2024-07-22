@@ -23,6 +23,7 @@
 | [0739-daily-temperatures](https://github.com/ckyong826/Python/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/ckyong826/Python/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ckyong826/Python/tree/master/0907-koko-eating-bananas) |
+| [1014-k-closest-points-to-origin](https://github.com/ckyong826/Python/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/ckyong826/Python/tree/master/1127-last-stone-weight) |
 | [1293-three-consecutive-odds](https://github.com/ckyong826/Python/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ckyong826/Python/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -82,6 +83,7 @@
 | ------- |
 | [0015-3sum](https://github.com/ckyong826/Python/tree/master/0015-3sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ckyong826/Python/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1014-k-closest-points-to-origin](https://github.com/ckyong826/Python/tree/master/1014-k-closest-points-to-origin) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ckyong826/Python/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Linked List
 |  |
@@ -125,6 +127,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ckyong826/Python/tree/master/0002-add-two-numbers) |
+| [1014-k-closest-points-to-origin](https://github.com/ckyong826/Python/tree/master/1014-k-closest-points-to-origin) |
 | [1642-water-bottles](https://github.com/ckyong826/Python/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/ckyong826/Python/tree/master/2645-pass-the-pillow) |
 ## Dynamic Programming
@@ -215,13 +218,23 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ckyong826/Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [1014-k-closest-points-to-origin](https://github.com/ckyong826/Python/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ckyong826/Python/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1014-k-closest-points-to-origin](https://github.com/ckyong826/Python/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/ckyong826/Python/tree/master/1127-last-stone-weight) |
 ## Data Stream
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ckyong826/Python/tree/master/0789-kth-largest-element-in-a-stream) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/ckyong826/Python/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/ckyong826/Python/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
