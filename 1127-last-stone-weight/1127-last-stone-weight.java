@@ -11,7 +11,7 @@ class Solution {
             int a = heap.poll();
             int b = heap.poll();
             int temp=a-b;
-            heap.offer(temp);
+            heap.add(temp);
         }
         return -heap.peek();
     }
