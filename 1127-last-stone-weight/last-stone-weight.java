@@ -1,18 +1,15 @@
 class Solution {
     public int lastStoneWeight(int[] stones) {
         PriorityQueue<Integer> heap;
-        heap = new PriorityQueue<>();
+        heap = new PriorityQueue<>(Collections.reverseOrder());
 
         for (int num:stones){
-            heap.add(-num);
+            heap.add(num);
         }
 
         while (heap.size()>1) {
-            int a = heap.poll();
-            int b = heap.poll();
-            int temp=a-b;
-            heap.add(temp);
+            heap.add(heap.poll()-heap.poll());
         }
-        return -heap.peek();
+        return heap.peek();
     }
 }
