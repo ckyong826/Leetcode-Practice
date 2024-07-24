@@ -249,4 +249,8 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ckyong826/Python/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/ckyong826/Python/tree/master/1014-k-closest-points-to-origin) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/ckyong826/Python/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
