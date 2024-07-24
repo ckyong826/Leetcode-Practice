@@ -167,6 +167,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/ckyong826/Python/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ckyong826/Python/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ckyong826/Python/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ckyong826/Python/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -179,12 +180,14 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ckyong826/Python/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ckyong826/Python/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ckyong826/Python/tree/master/0572-subtree-of-another-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ckyong826/Python/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ckyong826/Python/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ckyong826/Python/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ckyong826/Python/tree/master/0226-invert-binary-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ckyong826/Python/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -199,6 +202,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/ckyong826/Python/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ckyong826/Python/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ckyong826/Python/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ckyong826/Python/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## String Matching
 |  |
 | ------- |
