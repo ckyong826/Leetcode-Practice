@@ -21,6 +21,7 @@
 | [0216-combination-sum-iii](https://github.com/ckyong826/Python/tree/master/0216-combination-sum-iii) |
 | [0287-find-the-duplicate-number](https://github.com/ckyong826/Python/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ckyong826/Python/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0621-task-scheduler](https://github.com/ckyong826/Python/tree/master/0621-task-scheduler) |
 | [0739-daily-temperatures](https://github.com/ckyong826/Python/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/ckyong826/Python/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ckyong826/Python/tree/master/0907-koko-eating-bananas) |
@@ -40,6 +41,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/ckyong826/Python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/ckyong826/Python/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ckyong826/Python/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/ckyong826/Python/tree/master/0621-task-scheduler) |
 | [1023-time-based-key-value-store](https://github.com/ckyong826/Python/tree/master/1023-time-based-key-value-store) |
 ## Matrix
 |  |
@@ -78,6 +80,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/ckyong826/Python/tree/master/0621-task-scheduler) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ckyong826/Python/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Sorting
 |  |
@@ -85,6 +88,7 @@
 | [0015-3sum](https://github.com/ckyong826/Python/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ckyong826/Python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ckyong826/Python/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0621-task-scheduler](https://github.com/ckyong826/Python/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/ckyong826/Python/tree/master/1014-k-closest-points-to-origin) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ckyong826/Python/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Linked List
@@ -233,6 +237,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ckyong826/Python/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/ckyong826/Python/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ckyong826/Python/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/ckyong826/Python/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/ckyong826/Python/tree/master/1127-last-stone-weight) |
@@ -253,4 +258,8 @@
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/ckyong826/Python/tree/master/1908-recyclable-and-low-fat-products) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/ckyong826/Python/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
