@@ -1,15 +1,13 @@
 func groupAnagrams(strs []string) [][]string {
     set := make(map[string][]string)
     for _,str := range strs{
-        runes := []rune(str)
-        sort.Slice(runes, func(i, j int) bool {
-		    return runes[i] < runes[j]
-	    })
-        sortedStr := string(runes)
-        set[sortedStr] = append(set[sortedStr], str)
+        chars := strings.Split(str, "")
+        sort.Strings(chars)
+        key := strings.Join(chars, "")
+        set[key] = append(set[key], str)
     }
 
-    answer := make([][]string, 0)
+    answer := make([][]string, 0, len(set))
     for _,val := range set{
         answer = append(answer,val)
     }
