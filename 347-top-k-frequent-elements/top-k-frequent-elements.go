@@ -7,7 +7,7 @@ func topKFrequent(nums []int, k int) []int {
         key int
         val int
     }
-    pairs := make([]kv,0)
+    pairs := make([]kv,0,len(Map))
     for k,v := range Map{
         pairs = append(pairs,kv{k,v})
     }
